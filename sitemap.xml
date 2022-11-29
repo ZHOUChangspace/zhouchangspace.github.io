@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://zhouchangspace.github.io/tags/css/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhouchangspace.github.io/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhouchangspace.github.io/tags/html/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhouchangspace.github.io/portfolio/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhouchangspace.github.io/portfolio/sample-project/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhouchangspace.github.io/tags/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://zhouchangspace.github.io/tags/article/</loc>
     <lastmod>2021-01-07T13:42:27-05:00</lastmod>
   </url><url>
@@ -11,16 +29,10 @@
     <loc>https://zhouchangspace.github.io/posts/</loc>
     <lastmod>2021-01-07T13:42:27-05:00</lastmod>
   </url><url>
-    <loc>https://zhouchangspace.github.io/</loc>
-    <lastmod>2021-01-07T13:42:27-05:00</lastmod>
-  </url><url>
     <loc>https://zhouchangspace.github.io/cn/2021/01/07/first-post-cn/</loc>
     <lastmod>2021-01-07T13:42:27-05:00</lastmod>
   </url><url>
     <loc>https://zhouchangspace.github.io/posts/2021/01/07/first-post-cn/</loc>
-    <lastmod>2021-01-07T13:42:27-05:00</lastmod>
-  </url><url>
-    <loc>https://zhouchangspace.github.io/tags/</loc>
     <lastmod>2021-01-07T13:42:27-05:00</lastmod>
   </url><url>
     <loc>https://zhouchangspace.github.io/categories/test/</loc>
@@ -68,6 +80,8 @@
     <loc>https://zhouchangspace.github.io/about/</loc>
   </url><url>
     <loc>https://zhouchangspace.github.io/en/about/</loc>
+  </url><url>
+    <loc>https://zhouchangspace.github.io/about/second-post/</loc>
   </url><url>
     <loc>https://zhouchangspace.github.io/posts/1/01/01/second-post/</loc>
   </url><url>
