@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>test on Hugo-HT</title>
+    <title>test on Chang ZHOU</title>
     <link>https://zhouchangspace.github.io/categories/test/</link>
-    <description>Recent content in test on Hugo-HT</description>
+    <description>Recent content in test on Chang ZHOU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Jan 2021 13:42:27 -0500</lastBuildDate><atom:link href="https://zhouchangspace.github.io/categories/test/index.xml" rel="self" type="application/rss+xml" />
@@ -90,8 +90,16 @@ Had worn them really about the same,</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zhouchangspace.github.io/posts/1/01/01/second-post/</guid>
-      <description> See the source code of this page if you are interested.
-On the balcony of a hostel in Interlaken, Switzerland, by Hongtao Hao in May 2017 </description>
+      <description> On the balcony of a hostel in Interlaken, Switzerland, by Hongtao Hao in May 2017 </description>
+    </item>
+    
+    <item>
+      <title>Product Design - Piaopiao</title>
+      <link>https://zhouchangspace.github.io/posts/1/01/01/second-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhouchangspace.github.io/posts/1/01/01/second-post/</guid>
+      <description> On the balcony of a hostel in Interlaken, Switzerland, by Hongtao Hao in May 2017 </description>
     </item>
     
   </channel>
